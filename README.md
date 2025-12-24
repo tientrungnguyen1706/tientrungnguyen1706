@@ -37,11 +37,16 @@ I'm a passionate developer from Vietnam 🇻🇳. I love building useful softwar
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tientrungnguyen1706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/tientrungnguyen1706">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tientrungnguyen1706&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/tientrungnguyen1706">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientrungnguyen1706&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientrungnguyen1706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tientrungnguyen1706&theme=tokyonight&hide_border=true&background=0D1117" />
+  <a href="https://github.com/tientrungnguyen1706">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tientrungnguyen1706&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
