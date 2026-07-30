@@ -1,56 +1,52 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-  
-  # Hi there, I'm Tien Trung Nguyen! 👋
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Software+Engineer;Mobile+%26+Web+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a>
+
+# Tien Trung Nguyen
+
+**Software Developer from Vietnam 🇻🇳**
+
+Building practical mobile and backend applications with **Flutter** and **.NET**, while growing in **AI applications** and **cloud architecture**.
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tientrungnguyen.1706@gmail.com)
+
 </div>
 
----
+## About Me
 
-### 🚀 About Me
-I'm a passionate developer from Vietnam 🇻🇳. I love building useful software and exploring new technologies.
+- **Building:** Flutter and .NET applications
+- **Learning:** AI applications and advanced cloud architecture
+- **Interested in:** C#, Python, and mobile development
+- **Based in:** Vietnam
 
-- 🔭 I’m currently working on **Flutter & .NET Projects**
-- 🌱 I’m currently learning **AI Application & Advanced Cloud Architecture**
-- 💬 Ask me about **C#, Python, Mobile Development**
-- 📫 How to reach me: **tientrungnguyen.1706@gmail.com**
+## Tech Stack
 
----
+**Languages**
 
-### 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,cpp&perline=4" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=flutter,react,html,css&perline=4" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&perline=4" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=windows,android,mysql,sqlserver&perline=4" />
-</div>
+**Frameworks & Web**
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 📊 GitHub Stats
+**Data & Tools**
 
-<div align="center">
-  <a href="https://github.com/tientrungnguyen1706">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tientrungnguyen1706&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/tientrungnguyen1706">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientrungnguyen1706&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-  <br>
-  <a href="https://github.com/tientrungnguyen1706">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tientrungnguyen1706&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
 
----
+## Contact
 
-<div align="center">
-  <i>Let's connect and build something amazing together!</i> 🚀
-</div>
+Feel free to reach out about **Flutter**, **.NET**, **C#**, **Python**, or **mobile development**.
+
+📫 [tientrungnguyen.1706@gmail.com](mailto:tientrungnguyen.1706@gmail.com)
