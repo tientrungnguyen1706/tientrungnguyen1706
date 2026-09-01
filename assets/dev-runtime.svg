@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="470" viewBox="0 0 880 470"
+     role="img" aria-labelledby="memeTitle memeDesc">
+  <title id="memeTitle">A normal day in the multi-agent loop</title>
+  <desc id="memeDesc">Animated log. Claude reports the architecture looks good. Codex reports tests passed. Antigravity reports the task completed. GitHub reports a merge conflict. Tien flips the table. Then it loops.</desc>
+  <style type="text/css"><![CDATA[
+    .a1{animation:a1 14s cubic-bezier(.2,.7,.3,1) infinite;opacity:0}
+@keyframes a1{0%,3.5%{opacity:0;transform:translateY(10px)}6.5%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .a2{animation:a2 14s cubic-bezier(.2,.7,.3,1) infinite;opacity:0}
+@keyframes a2{0%,18%{opacity:0;transform:translateY(10px)}21%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .a3{animation:a3 14s cubic-bezier(.2,.7,.3,1) infinite;opacity:0}
+@keyframes a3{0%,32.5%{opacity:0;transform:translateY(10px)}35.5%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .a4{animation:a4 14s cubic-bezier(.2,.7,.3,1) infinite;opacity:0}
+@keyframes a4{0%,47%{opacity:0;transform:translateY(10px)}50%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .a5{animation:a5 14s cubic-bezier(.2,.7,.3,1) infinite;opacity:0}
+@keyframes a5{0%,61%{opacity:0;transform:translateY(10px)}64%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .shake{animation:shake 14s linear infinite}@keyframes shake{0%,50%{transform:translateX(0)}51%{transform:translateX(-5px)}52.5%{transform:translateX(5px)}54%{transform:translateX(-3px)}55.5%{transform:translateX(3px)}57%,100%{transform:translateX(0)}}
+  ]]></style>
+  <rect x="0.5" y="0.5" width="879" height="469" rx="16" fill="#FFFFFF" stroke="#D8DEE4"/>
+  <path d="M0.5 16.5 A16 16 0 0 1 16.5 0.5 H863.5 A16 16 0 0 1 879.5 16.5 V48 H0.5 Z" fill="#F6F8FA"/>
+  <line x1="0.5" y1="48" x2="879.5" y2="48" stroke="#E7EBF0"/>
+  <circle cx="26" cy="24" r="5.5" fill="#FF5F57"/>
+  <circle cx="46" cy="24" r="5.5" fill="#FEBC2E"/>
+  <circle cx="66" cy="24" r="5.5" fill="#28C840"/>
+  <text x="90" y="29" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="13" fill="#656D76">dev-runtime</text>
+  <text x="854" y="29" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="12" fill="#8C959F">multi-agent loop</text>
+  <g class="a1">
+    <circle cx="46" cy="94" r="17" fill="#C4643C"/>
+    <text x="46" y="99" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="15" font-weight="700" fill="#FFFFFF">C</text>
+    <text x="78" y="86" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8" fill="#656D76">CLAUDE</text>
+    <text x="78" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="17" font-weight="400" fill="#424A53" xml:space="preserve">Architecture looks good.</text>
+    <circle cx="826" cy="94" r="13" fill="#DAFBE1"/>
+    <path d="M821 94 l3.6 3.8 l7.2 -8.4" fill="none" stroke="#1A7F37" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="a2">
+    <circle cx="46" cy="166" r="17" fill="#0E8A6C"/>
+    <text x="46" y="171" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="15" font-weight="700" fill="#FFFFFF">X</text>
+    <text x="78" y="158" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8" fill="#656D76">CODEX</text>
+    <text x="78" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="17" font-weight="400" fill="#424A53" xml:space="preserve">Tests passed.</text>
+    <circle cx="826" cy="166" r="13" fill="#DAFBE1"/>
+    <path d="M821 166 l3.6 3.8 l7.2 -8.4" fill="none" stroke="#1A7F37" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="a3">
+    <circle cx="46" cy="238" r="17" fill="#2C6FD1"/>
+    <text x="46" y="243" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="15" font-weight="700" fill="#FFFFFF">A</text>
+    <text x="78" y="230" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8" fill="#656D76">ANTIGRAVITY</text>
+    <text x="78" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="17" font-weight="400" fill="#424A53" xml:space="preserve">Task completed.</text>
+    <circle cx="826" cy="238" r="13" fill="#DAFBE1"/>
+    <path d="M821 238 l3.6 3.8 l7.2 -8.4" fill="none" stroke="#1A7F37" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="a4"><g class="shake">
+    <circle cx="46" cy="310" r="17" fill="#24292F"/>
+    <text x="46" y="315" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="15" font-weight="700" fill="#FFFFFF">G</text>
+    <text x="78" y="302" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8" fill="#656D76">GITHUB</text>
+    <text x="78" y="328" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="17" font-weight="700" fill="#CF222E" xml:space="preserve">MERGE CONFLICT</text>
+    <g>
+      <circle cx="826" cy="310" r="13" fill="#FFEBE9"/>
+      <polygon points="826,300 827.6838,305.9349 833.0711,302.9289 830.0651,308.3162 836,310 830.0651,311.6838 833.0711,317.0711 827.6838,314.0651 826,320 824.3162,314.0651 818.9289,317.0711 821.9349,311.6838 816,310 821.9349,308.3162 818.9289,302.9289 824.3162,305.9349" fill="#CF222E"/>
+      <animateTransform attributeName="transform" type="rotate" calcMode="linear" dur="14s" repeatCount="indefinite" keyTimes="0;0.47;0.62;1" values="0 826 310;0 826 310;45 826 310;45 826 310"/>
+    </g>
+  </g></g>
+  <g class="a5">
+    <circle cx="46" cy="382" r="17" fill="#7C3FD6"/>
+    <text x="46" y="387" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="15" font-weight="700" fill="#FFFFFF">T</text>
+    <text x="78" y="374" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8" fill="#656D76">TIEN</text>
+    <g><text x="78" y="400" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="22" font-weight="400" fill="#1F2328" xml:space="preserve">(╯°□°)╯</text><animateTransform attributeName="transform" type="rotate" calcMode="linear" dur="14s" repeatCount="indefinite" keyTimes="0;0.615;0.645;0.675;0.705;1" values="0 124.2 393;0 124.2 393;-10 124.2 393;6 124.2 393;0 124.2 393;0 124.2 393"/></g>
+    <path d="M182 400 Q222 358 262 386" fill="none" stroke="#8C959F" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" calcMode="linear" dur="14s" repeatCount="indefinite" keyTimes="0;0.62;0.78;1" values="0;0;-36;-36"/></path>
+    <g transform="translate(272 382)"><g><rect x="0" y="0" width="46" height="5" rx="2.5" fill="#1F2328"/><rect x="4" y="5" width="5" height="17" rx="2" fill="#1F2328"/><rect x="37" y="5" width="5" height="17" rx="2" fill="#1F2328"/><animateTransform attributeName="transform" type="rotate" calcMode="linear" dur="14s" repeatCount="indefinite" keyTimes="0;0.615;0.69;0.72;0.75;1" values="0 23 11;0 23 11;178 23 11;166 23 11;173 23 11;173 23 11"/></g></g>
+  </g>
+  <text x="440.0" y="452" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &apos;Liberation Mono&apos;, &apos;Courier New&apos;, monospace" font-size="12" fill="#8C959F">$ ship --anyway</text>
+</svg>
